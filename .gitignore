@@ -8,6 +8,7 @@ Desktop.ini
 .settings
 *.iml
 *.pyc
+source/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
