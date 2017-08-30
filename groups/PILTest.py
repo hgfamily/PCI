@@ -29,6 +29,9 @@ and they lived at the bottom of a well.</p>
 soup=BeautifulSoup(html,'lxml')
 #格式化内容输出
 print(soup.prettify())
+print('-------------')
+c=soup.contents
+for t in c:print(t)
 print('-----------')
 #获取tag
 print(soup.title)
