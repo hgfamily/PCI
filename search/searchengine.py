@@ -210,18 +210,18 @@ class searcher:
         self.con.close()
     
     def getmatchrows(self,q):
-        # Strings to build the query
+        # 构造查询字符串
         fieldlist='w0.urlid'
         tablelist=''  
         clauselist=''
         wordids=[]
     
-        # Split the words by spaces
+        # 根据空格拆分单词
         words=q.split(' ')  
         tablenumber=0
     
         for word in words:
-            # Get the word ID
+            # 获取单词的ID
             wordrow=self.con.execute(
               "select rowid from wordlist where word='%s'" % word).fetchone()
             if wordrow!=None:
@@ -236,17 +236,16 @@ class searcher:
                 clauselist+='w%d.wordid=%d' % (tablenumber,wordid)
                 tablenumber+=1
     
-        # Create the query from the separate parts
+        # 根据拆分后的组合进行查询
         fullquery='select %s from %s where %s' % (fieldlist,tablelist,clauselist)
         print fullquery
         cur=self.con.execute(fullquery)
         rows=[row for row in cur]   
         return rows,wordids
     
-    def getscoredlist(self,rows,wordids):
-        
+    #获取评价值列表
+    def getscoredlist(self,rows,wordids):    
         totalscores=dict([(row[0],0) for row in rows])
-
         # 设置评价函数
         #使用频度评价算法
         #weights=[(1.0,self.frequencyscore(rows))]
@@ -304,13 +303,14 @@ class searcher:
         return self.normalizescores(locations,smallIsBetter=1)  
     #单词距离
     def distancescore(self,rows):
-        # If there's only one word, everyone wins!
+        # 如果仅有一个单词，则得分都一样
         if len(rows[0])<=2: return dict([(row[0],1.0) for row in rows])
 
-        # Initialize the dictionary with large values
+        # 初始化字典，设置一个大的数
         mindistance=dict([(row[0],1000000) for row in rows])
 
         for row in rows:
+            #计算每一个位置与上一个位置间的差距
             dist=sum([abs(row[i]-row[i-1]) for i in range(2,len(row))])
             if dist<mindistance[row[0]]: mindistance[row[0]]=dist
         return self.normalizescores(mindistance,smallIsBetter=1)  
