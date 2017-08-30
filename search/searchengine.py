@@ -344,11 +344,14 @@ class searcher:
         normalizedscores=dict([(u,float(l)/maxscore) for (u,l) in linkscores.items()])
         return normalizedscores
     
+    #神经网络评分 weights=[(1.0,self.nnscore(rows,wordids))]
+    """
     def nnscore(self,rows,wordids):
-        urlids=[urlid for urlid in dict([(row[0],1) for row in rows])]
+        urlids=[urlid for urlid in set([row[0] for row in rows])]
         nnres=mynet.getresult(wordids,urlids)
         scores=dict([(urlids[i],nnres[i]) for i in range(len(urlids))])
         return self.normalizescores(scores)
+    """
 #测试多词搜索
 """
 e=searcher('searchindex.db')

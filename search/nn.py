@@ -76,17 +76,17 @@ class searchnet:
 
         #建立包括所有当前权重值在内的相应网络
         def setupnetwork(self,wordids,urlids):
-                # 值列表
+                #值列表
                 self.wordids=wordids
                 self.hiddenids=self.getallhiddenids(wordids,urlids)
                 self.urlids=urlids
 
-                # 节点输出
+                #节点输出
                 self.ai = [1.0]*len(self.wordids)
                 self.ah = [1.0]*len(self.hiddenids)
                 self.ao = [1.0]*len(self.urlids)
 
-                # 建立权重矩阵
+                #建立权重矩阵
                 self.wi = [[self.getstrength(wordid,hiddenid,0) 
                             for hiddenid in self.hiddenids] 
                            for wordid in self.wordids]
@@ -194,6 +194,7 @@ mynet.trainquery([wWorld,wBank],[uWorldBank,uRiver,uEarth],uWorldBank)
 print(mynet.getresult([wWorld,wBank],[uWorldBank,uRiver,uEarth]))
 """
 #对未曾见过的输入情况进行推理
+"""
 mynet=searchnet('nn.db')
 allurls=[uWorldBank,uRiver,uEarth]
 for i in range(30):
@@ -203,3 +204,4 @@ for i in range(30):
 print(mynet.getresult([wWorld,wBank],allurls))
 print(mynet.getresult([wRiver,wBank],allurls))
 print(mynet.getresult([wBank],allurls))
+"""
