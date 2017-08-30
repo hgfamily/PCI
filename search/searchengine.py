@@ -6,6 +6,8 @@ from urlparse import urljoin
 from pysqlite2 import dbapi2 as sqlite
 import re
 
+import nn
+mynet=nn.searchnet('nn.db')
 
 # 构造一个单词列表，这些单词将被忽略
 ignorewords={'the':1,'of':1,'to':1,'and':1,'a':1,'in':1,'is':1,'it':1}
@@ -275,7 +277,7 @@ class searcher:
         rankedscores.reverse()
         for (score,urlid) in rankedscores[0:10]:
             print '%f\t%s' % (score,self.geturlname(urlid))
-        return wordids,[r[1] for r in rankedscores[0:10]] 
+        return wordids,[r[1] for r in rankedscores[0:10]] #结果可以直接传入searchnet的trainquery方法中
     
     #归一化函数-每个评价函数都会调用该函数
     def normalizescores(self,scores,smallIsBetter=0):
@@ -340,7 +342,13 @@ class searcher:
                     linkscores[toid]+=pr
         maxscore=max(linkscores.values())
         normalizedscores=dict([(u,float(l)/maxscore) for (u,l) in linkscores.items()])
-        return normalizedscores    
+        return normalizedscores
+    
+    def nnscore(self,rows,wordids):
+        urlids=[urlid for urlid in dict([(row[0],1) for row in rows])]
+        nnres=mynet.getresult(wordids,urlids)
+        scores=dict([(urlids[i],nnres[i]) for i in range(len(urlids))])
+        return self.normalizescores(scores)
 #测试多词搜索
 """
 e=searcher('searchindex.db')
