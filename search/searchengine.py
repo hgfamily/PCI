@@ -255,11 +255,13 @@ class searcher:
         #weights=[(1.0,self.locationscore(rows))]
         #使用距离评价算法
         #weights=[(1.0,self.distancescore(rows))]
+        #使用神经网络
+        weights=[(1.0,self.nnscore(rows,wordids))]
         #加权组合
-        weights=[(1.0,self.frequencyscore(rows)),
-                (1.0,self.locationscore(rows)),
-                (1.0,self.pagerankscore(rows)),
-                (1.0,self.linktextscore(rows,wordids))]
+        #weights=[(1.0,self.frequencyscore(rows)),
+                #(1.0,self.locationscore(rows)),
+                #(1.0,self.pagerankscore(rows)),
+                #(1.0,self.linktextscore(rows,wordids))]
         for (weight,scores) in weights:
             for url in totalscores:
                 totalscores[url]+=weight*scores[url]
@@ -345,13 +347,12 @@ class searcher:
         return normalizedscores
     
     #神经网络评分 weights=[(1.0,self.nnscore(rows,wordids))]
-    """
     def nnscore(self,rows,wordids):
         urlids=[urlid for urlid in set([row[0] for row in rows])]
+        mynet.trainquery(wordids,urlids,5)
         nnres=mynet.getresult(wordids,urlids)
         scores=dict([(urlids[i],nnres[i]) for i in range(len(urlids))])
         return self.normalizescores(scores)
-    """
 #测试多词搜索
 """
 e=searcher('searchindex.db')
@@ -364,4 +365,4 @@ print(e.query('bytes question'))
 """
 #测试pagerank排名
 e=searcher('searchindex.db')
-print(e.query('bytes question'))
+print(e.query('bytes development'))
