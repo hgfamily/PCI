@@ -1,4 +1,5 @@
 #-*- coding:utf-8 -*-
+#组团旅游优化问题
 import time
 import random
 import math
@@ -32,6 +33,7 @@ def printschedule(r):
                                                   out[0],out[1],out[2],
                                                   ret[0],ret[1],ret[2])
 #测试所有的航班信息
+#问题解
 s=[1,4,3,2,7,3,6,3,2,4,5,3]
 #printschedule(s)
 
@@ -124,11 +126,13 @@ def hillclimb(domain,costf):
             break
     return sol
 #测试爬山法
+"""
 domain=[(0,9)]*(len(people)*2)
 s=hillclimb(domain,schedulecost)
 print('测试爬山法:')
 print(schedulecost(s))
 printschedule(s)
+"""
 #模拟退火算法-全局最小值
 #可以对初始温度、冷却率和随机推进的step值进行调参
 def annealingoptimize(domain,costf,T=10000.0,cool=0.85,step=1):
@@ -161,11 +165,12 @@ def annealingoptimize(domain,costf,T=10000.0,cool=0.85,step=1):
         T=T*cool
     return vec
 #测试模拟退火算法
+"""
 print('模拟退火算法:')
 s=annealingoptimize(domain,schedulecost)
 print(schedulecost(s))
 printschedule(s)
-
+"""
 #遗传算法
 """
 可选参数：
@@ -194,15 +199,14 @@ def geneticoptimize(domain,costf,popsize=50,step=1,mutprob=0.2,elite=0.2,maxiter
     # 构造初始种群
     pop=[]
     for i in range(popsize):
-        vec=[random.randint(domain[i][0],domain[i][1]) 
-         for i in range(len(domain))]
+        vec=[random.randint(domain[i][0],domain[i][1]) for i in range(len(domain))]
         pop.append(vec)
 
     # 每一代胜出者数
     topelite=int(elite*popsize)
  
     for i in range(maxiter):
-        scores=[(costf(v),v) for v in pop]
+        scores=[(costf(v),v) for v in pop]#调用成本函数
         scores.sort()
         ranked=[v for (s,v) in scores]
 
@@ -229,6 +233,8 @@ def geneticoptimize(domain,costf,popsize=50,step=1,mutprob=0.2,elite=0.2,maxiter
     return scores[0][1]
 
 #测试遗传算法-可得出全局最优值
+"""
 print('遗传算法:')
 s=geneticoptimize(domain,schedulecost)
 printschedule(s)
+"""
