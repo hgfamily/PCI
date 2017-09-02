@@ -75,14 +75,13 @@ class classifier:
         return self.fcount(f,cat)/self.catcount(cat)
     
     def weightedprob(self,f,cat,prf,weight=1.0,ap=0.5):
-        # Calculate current probability
+        # 计算当前概率值
         basicprob=prf(f,cat)
 
-        # Count the number of times this feature has appeared in
-        # all categories
+       #统计特征在所有分钟中出现的次数
         totals=sum([self.fcount(f,c) for c in self.categories()])
 
-        # Calculate the weighted average
+        # 计算加权平均
         bp=((weight*ap)+(totals*basicprob))/(weight+totals)
         return bp    
 
@@ -109,7 +108,7 @@ sampletrain(cl)
 print cl.weightedprob('money','good',cl.fprob)
 """
 
-#朴素贝叶斯分类器
+#朴素贝叶斯分类器-针对整篇文档的概率Pr(category|document)
 class naivebayes(classifier):
 
     def __init__(self,getfeatures):
@@ -119,7 +118,7 @@ class naivebayes(classifier):
     def docprob(self,item,cat):
         features=self.getfeatures(item)   
 
-        # Multiply the probabilities of all the features together
+        # 将所有特征的概率相乘
         p=1
         for f in features: p*=self.weightedprob(f,cat,self.fprob)
         return p
@@ -161,6 +160,7 @@ print cl.prob('quick rabbit','good')
 print cl.prob('buy','bad')
 """
 #测试阈值
+"""
 cl=naivebayes(getwords)
 sampletrain(cl)
 print cl.classify('quick rabbit',default='unknown')
@@ -170,3 +170,90 @@ print cl.classify('quick money',default='unknown')
 for i in range(10):
     sampletrain(cl)
 print cl.classify('quick money',default='unknown')
+"""
+#费舍尔方法-针对特征的分类概率Pr(category|feature)
+class fisherclassifier(classifier):
+    def cprob(self,f,cat):
+        # 特征在该分类中出现的频率   
+        clf=self.fprob(f,cat)
+        if clf==0: return 0
+
+        # 特征在所有分类中出现的频率
+        freqsum=sum([self.fprob(f,c) for c in self.categories()])
+
+        # 概率等于特征在该分类中出现的频率除以总体频率
+        p=clf/(freqsum)
+
+        return p
+    
+    def fisherprob(self,item,cat):
+        # 将所有概率相乘
+        p=1
+        features=self.getfeatures(item)
+        for f in features:
+            p*=(self.weightedprob(f,cat,self.cprob))
+
+        # 取自然对数，并乘以-2
+        fscore=-2*math.log(p)
+
+        # 利用倒置对数卡方函数求得概率
+        return self.invchi2(fscore,len(features)*2)
+    
+    def invchi2(self,chi, df):
+        m = chi / 2.0
+        sum = term = math.exp(-m)
+        for i in range(1, df//2):
+            term *= m / i
+            sum += term
+        return min(sum, 1.0)
+    
+    #对内容项进行分类,设置分类的下限值
+    def __init__(self,getfeatures):
+        classifier.__init__(self,getfeatures)
+        self.minimums={}
+
+    def setminimum(self,cat,min):
+        self.minimums[cat]=min
+
+    def getminimum(self,cat):
+        if cat not in self.minimums: return 0
+        return self.minimums[cat]
+    def classify(self,item,default=None):
+        # 循环遍历并寻找最佳结果
+        best=default
+        max=0.0
+        for c in self.categories():
+            p=self.fisherprob(item,c)
+            # 确保其超过分类的下限值
+            if p>self.getminimum(c) and p>max:
+                best=c
+                max=p
+        return best
+
+#测试费舍尔方法
+#分类概率
+"""
+cl=fisherclassifier(getwords)
+sampletrain(cl)
+print cl.cprob('quick','good')
+print cl.cprob('money','bad')
+print cl.weightedprob('money','bad',cl.cprob)
+"""
+#组合概率
+"""
+cl=fisherclassifier(getwords)
+sampletrain(cl)
+print cl.cprob('quick','good')
+print cl.fisherprob('quick rabbit','good')
+print cl.fisherprob('quick rabbit','bad')
+"""
+#对内容项进行分类
+cl=fisherclassifier(getwords)
+sampletrain(cl)
+print cl.classify('quick rabbit')
+print cl.classify('quick money')
+print('设置分类的下限值:')
+cl.setminimum('bad',0.8)
+print cl.classify('quick money')
+cl.setminimum('good',0.4)
+print cl.classify('quick money')
