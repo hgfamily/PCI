@@ -78,7 +78,7 @@ class classifier:
         # 计算当前概率值
         basicprob=prf(f,cat)
 
-       #统计特征在所有分钟中出现的次数
+       #统计特征在所有分类中出现的次数
         totals=sum([self.fcount(f,c) for c in self.categories()])
 
         # 计算加权平均
