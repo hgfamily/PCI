@@ -12,11 +12,9 @@ people = [('Seymour','BOS'),
           ('Les','OMA')]
 destination='LGA'
 flights={}
-# 
 for line in file('schedule.txt'):
     origin,dest,depart,arrive,price=line.strip().split(',')
     flights.setdefault((origin,dest),[])
-    # Add details to the list of possible flights
     flights[(origin,dest)].append((depart,arrive,int(price)))
 
 def getminutes(t):
@@ -77,13 +75,13 @@ def randomoptimize(domain,costf):
     best=999999999
     bestr=None
     for i in range(0,1000):
-        # Create a random solution
+        # 创建一个随机解
         r=[float(random.randint(domain[i][0],domain[i][1])) for i in range(len(domain))]
 
-        # Get the cost
+        # 得到成本
         cost=costf(r)
 
-        # Compare it to the best one so far
+        # 与到目前为止的最优解进行比较
         if cost<best:
             best=cost
             bestr=r 
