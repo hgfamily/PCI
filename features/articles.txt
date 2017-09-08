@@ -1,0 +1,390 @@
+'REPUB DEATH WISH'  Trump rips GOP, explains deal with Democrats
+7.18786695823 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+5.9246126367 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+0.0358850189574 ['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+
+BALLOT BOOST?  Out-of-staters may have tipped NH to Clinton
+8.44840379087 ['have', 'late', 'clinton', 'that', 'about', 'year']
+3.24876583898 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+1.02453496761 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+
+J-LAW LOGIC  Actress suggests Trump to  blame for Hurricane Irma
+6.90304817024 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+5.9239304779 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+3.14563180349 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+
+QUAKE TOLL AT 15  Historic, deadly Mexican temblor measures 8.1
+1.93791691386 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+1.16655027617e-86 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+1.93548828781e-93 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+DIRECT HIT? 'Devastating' worst-case scenario feared as Hurricane Irma barrels toward Florida
+7.88356862798 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+1.88865791427 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+1.41971565655 ['hurricane', 'irma', 'thursday', 'trump', 'with', 'harvey']
+
+Quake toll at 15: Historic, deadly Mexican temblor measures 8.1
+1.93791691386 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+4.70721868131e-86 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+1.93548828781e-93 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+California teens ignite 100-acre wildfire with illegal fireworks, police say
+7.22381665331 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+0.000272600795375 ['their', 'second', 'clinton', 'year', 'that', 'with']
+4.32534939776e-07 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+
+Fewer Americans value a college degree
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Chiefs player sits for National Anthem on NFL opener
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+GOP mayoral candidate: De Blasio should use his given German name
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+'Gun taken,' person in custody after active shooter reported at Ohio high school
+7.01974159728 ['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+0.00550424212989 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+8.02880387588e-37 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+
+New York's Cardinal Dolan rips Bannon's 'insulting' remarks about church, DACA
+8.09172525234 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+6.40928212165e-49 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+3.22226972894e-91 ['their', 'second', 'clinton', 'year', 'that', 'with']
+
+DOJ files brief on behalf of baker who refused to make a wedding cake for a gay couple
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+College Republicans group in California labeled as 'white nationalist'
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+North Korea may launch ICBM on Saturday, South Korean president warns
+6.20630390383 ['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+3.87164090252e-81 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+3.94191445916e-131 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+Trump Organization ethics lawyer's wife busted for sex with jail inmate
+7.1878681739 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+5.92444558727 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+0.0370180965918 ['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+
+Police: Father kills himself moments after son's accidental shooting
+7.01974156995 ['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+0.00550657024393 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+6.17190015797e-37 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+
+Feds spend $138G asking 4-year-olds about their 'internal sense of gender identity'
+8.08685427407 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+6.71250693533 ['their', 'second', 'clinton', 'year', 'that', 'with']
+5.59115538212 ['year', 'that', 'storm', 'hurricane', 'irma', 'thursday']
+
+Jaguar's new electric car?
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Miss America 'blacked out'
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Kid Rock's anti-PC rant
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+The truth about Darrin
+8.09172525234 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+1.06785483873e-48 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+2.5583695914e-91 ['their', 'second', 'clinton', 'year', 'that', 'with']
+
+Gaga&rsquo;s big apology to fans
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+7 things all home-buyers want
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Giant black hole found
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+'Duck' star unrecognizable
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Star sends Obama 'racy' texts
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+What happened to Pamela?
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Huge 'Star Wars' reveal
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Could this machine roam Venus?
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Woman breaks world record
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Nudists have new place to play
+8.50395983046 ['have', 'late', 'clinton', 'that', 'about', 'year']
+0.03066259627 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+8.74851092558e-64 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+
+Caribbean Devastated as Irma Heads Toward Florida
+8.85051567655 ['irma', 'hurricane', 'thursday', 'that', 'year', 'storm']
+7.08217175489 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+1.29507169487 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+Hurricane Irma Updates: Storm Barrels Toward Cuba and Florida
+10.1241779121 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+7.74789920781 ['storm', 'irma', 'hurricane', 'that', 'harvey', 'year']
+6.26947765635 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+
+Hurricane Irma: What’s Happened and What’s Next
+7.78590575593 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+7.43958261147 ['irma', 'hurricane', 'thursday', 'that', 'year', 'storm']
+5.01303968138 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+
+In Florida, Searching for Gas and Water, and Watching Irma
+5.70346903897 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+4.05162314453 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+3.99445180546 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+
+In Hurricane Irma’s Ruinous Wake: ‘I Feel Like I’m on the Moon’
+12.3403670671 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+5.79493032461 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+4.57177502201 ['hurricane', 'irma', 'thursday', 'trump', 'with', 'harvey']
+
+Irma Inspires a Travel Search: Where to Evacuate
+11.4726333546 ['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+6.88529895949 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+6.06544398731 ['irma', 'hurricane', 'thursday', 'that', 'year', 'storm']
+
+Why Hurricane Irma Could Hurt, a Lot: Much Lies in Harm’s Way
+15.0327517245 ['storm', 'irma', 'hurricane', 'that', 'harvey', 'year']
+11.4352045061 ['year', 'that', 'storm', 'hurricane', 'irma', 'thursday']
+5.21658989537 ['irma', 'hurricane', 'thursday', 'that', 'year', 'storm']
+
+Mexico Earthquake, Strongest in a Century, Kills Dozens
+17.7010027157 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+7.7143960415 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+6.94239880504 ['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+
+Giant Earthquake Shakes Mexico
+1.93791691386 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+7.50516766396e-86 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+1.93548828781e-93 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+Recalling the Deadly Quake That Shook Mexico in 1985
+7.88001155682 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+7.60162136735 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+0.0564907145077 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+Haiti Quake Intensity Was Affected by Local Terrain, Study Finds
+7.74579250041 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+0.00018555322472 ['have', 'late', 'clinton', 'that', 'about', 'year']
+3.96366500218e-05 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+
+Florida, Mexico, Stephen King: Your Friday Briefing
+7.16615503877 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+6.76432257902 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+5.61702242884 ['irma', 'hurricane', 'thursday', 'that', 'year', 'storm']
+
+New York Today: New York Today: Rafael Nadal’s New York
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+The Fake Americans Russia Created to Influence the Election
+7.20213645651 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+5.25587523747 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+4.49706226616 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+
+Trump Jr. Says He Wanted Russian Dirt to Determine Clinton’s ‘Fitness’ for Office
+12.1032043768 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+4.89115943722 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+3.45988300559 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+Using Silicon Valley Tactics, LinkedIn’s Founder Is Working to Blunt Trump
+6.32958054078 ['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+5.10065882209 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+6.22099048852e-16 ['hurricane', 'irma', 'thursday', 'trump', 'with', 'harvey']
+
+House Passes Hurricane Aid and Raises Debt Ceiling
+8.15598828327 ['hurricane', 'irma', 'thursday', 'trump', 'with', 'harvey']
+0.190039659135 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+0.056913294845 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+
+Trump Lashes Out at Congressional Republicans’ ‘Death Wish’
+11.0435873217 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+7.24323591955 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+6.32490441393 ['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+
+Hillary Clinton, in Book, Regrets Not Striking Back at James Comey
+10.7958301667 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+7.33688770158 ['their', 'second', 'clinton', 'year', 'that', 'with']
+6.1994604894 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+
+Hillary Clinton to Discuss Campaign and New Book on Colbert’s ‘Late Show’
+17.9326044674 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+7.94649060738 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+2.41002738071 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+
+Equifax Says Cyberattack May Have Affected 143 Million Customers
+8.50395962666 ['have', 'late', 'clinton', 'that', 'about', 'year']
+0.0306634050952 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+1.0646139772e-63 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+
+A Free Food Forest in the Bronx
+8.10194844404 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+5.69045192291 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+0.178300429985 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+
+Appeals Court Limits Trump Travel Ban and Allows More Refugees
+11.0482914285 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+6.32438850089 ['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+5.04026310331e-13 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+
+Amazon Plans Second Headquarters, Opening a Bidding War Among Cities
+22.7220808542 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.1314568517 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+0.00706002553213 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+F.D.A. Accuses EpiPen Maker of Failing to Investigate Malfunctions
+11.5190923738 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+0.360213604412 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0926367367962 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Graydon Carter to End 25-Year Run as Vanity Fair’s Editor
+7.65785178577 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+5.70465799801 ['year', 'that', 'storm', 'hurricane', 'irma', 'thursday']
+0.0687850334363 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+
+Betsy DeVos Says She Will Rewrite Rules on Campus Sex Assault
+8.08623320439 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+5.21652686297 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+2.90159661928 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+
+Your Daily Mini Crossword
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Album Review: The National Gives Its Sound a Jolt on ‘Sleep Well Beast’
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+The Education Issue: ‘The Way to Survive It Was to Make A’s’
+6.75762774788 ['their', 'second', 'clinton', 'year', 'that', 'with']
+5.64389432923 ['year', 'that', 'storm', 'hurricane', 'irma', 'thursday']
+0.00347979315264 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+
+Ted Cruz 2.0? Senator Adjusts With Trump in Office and Houston Under Water
+7.98580167326 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+7.22404706175 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+5.76872541536 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+
+After Harvey, a Grim Hunt in Texas for Those Still Missing
+7.32898667748 ['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+7.10289953966 ['storm', 'irma', 'hurricane', 'that', 'harvey', 'year']
+4.95570368755 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+
+Safety Workers Sickened by Fumes Sue Texas Chemical Plant
+7.01974157151 ['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+0.00550643698028 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+6.30947982355e-37 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+
+Sports of The Times: Bag? Check. Racket? Check. Dog? Of Course.
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+U.S. Open: Sloane Stephens and Madison Keys Reach U.S. Open Final
+7.01974155788 ['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+0.00550759810864 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+5.45770069037e-37 ['clinton', 'hillary', 'late', 'second', 'with', 'have']
+
+Utrecht Journal: If You Build It, the Dutch Will Pedal
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+270,000 Rohingya Have Fled Myanmar, U.N. Says
+9.73651437648 ['have', 'late', 'clinton', 'that', 'about', 'year']
+5.4550994874 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+2.14436186707 ['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+
+Pope Francis Urges Colombia to Seize ‘Second Chance’
+9.91969274692 ['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+2.32970790092 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.510935434123 ['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+
+Pierre Bergé, Transformative Fashion Executive, Dies at 86
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Gene Michael, Whose Yankee Teams Won 4 World Series, Dies at 79
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+Navy Ships Kept at Sea Despite Training and Maintenance Needs, Admiral Says
+7.20833837701 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+6.75957768129 ['their', 'second', 'clinton', 'year', 'that', 'with']
+0.000537856836367 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+
+Ex-U.S. Presidents Start Fund to Help Hurricane Harvey Victims
+20.8524995264 ['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+4.31179537261 ['have', 'late', 'clinton', 'that', 'about', 'year']
+3.68907047171 ['hurricane', 'irma', 'thursday', 'trump', 'with', 'harvey']
+
+Patriots vs. Chiefs: How to Watch the N.F.L. Opener
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+The Hunt: Escape From the Holland Tunnel
+13.504431528 ['their', 'second', 'clinton', 'year', 'that', 'with']
+5.71853203907 ['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+0.0112845358337 ['about', 'that', 'thursday', 'year', 'their', 'hillary']
+
+Modern Love: Finding God in a Hot Slice of Pizza
+0.0 ['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+0.0 ['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+0.0 ['have', 'late', 'clinton', 'that', 'about', 'year']
+
+City Kitchen: A Succulent Brisket Almost as Good as Mom’s
+7.2238166536 ['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+0.000272481360389 ['their', 'second', 'clinton', 'year', 'that', 'with']
+4.34668367156e-07 ['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+

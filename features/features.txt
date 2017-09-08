@@ -1,0 +1,100 @@
+['irma', 'hurricane', 'thursday', 'trump', 'storm', 'year']
+(11.472633354615649, u'Irma Inspires a Travel Search: Where to Evacuate')
+(10.124177912116439, u'Hurricane Irma Updates: Storm Barrels Toward Cuba and Florida')
+(7.7859057559278897, u'Hurricane Irma: What\u2019s Happened and What\u2019s Next')
+
+['after', 'harvey', 'storm', 'late', 'mexico', 'trump']
+(7.3289866774780146, u'After Harvey, a Grim Hunt in Texas for Those Still Missing')
+(7.0197415972798352, u"'Gun taken,' person in custody after active shooter reported at Ohio high school")
+(7.0197415715115383, u'Safety Workers Sickened by Fumes Sue Texas Chemical Plant')
+
+['trump', 'clinton', 'second', 'thursday', 'with', 'president']
+(12.103204376820859, u'Trump Jr. Says He Wanted Russian Dirt to Determine Clinton\u2019s \u2018Fitness\u2019 for Office')
+(11.048291428493874, u'Appeals Court Limits Trump Travel Ban and Allows More Refugees')
+(11.043587321692369, u'Trump Lashes Out at Congressional Republicans\u2019 \u2018Death Wish\u2019')
+
+['storm', 'irma', 'hurricane', 'that', 'harvey', 'year']
+(15.032751724506371, u'Why Hurricane Irma Could Hurt, a Lot: Much Lies in Harm\u2019s Way')
+(7.7478992078129041, u'Hurricane Irma Updates: Storm Barrels Toward Cuba and Florida')
+(7.1028995396627232, u'After Harvey, a Grim Hunt in Texas for Those Still Missing')
+
+['irma', 'hurricane', 'thursday', 'that', 'year', 'storm']
+(8.8505156765516499, u'Caribbean Devastated as Irma Heads Toward Florida')
+(7.4395826114748598, u'Hurricane Irma: What\u2019s Happened and What\u2019s Next')
+(6.0654439873064154, u'Irma Inspires a Travel Search: Where to Evacuate')
+
+['their', 'second', 'clinton', 'year', 'that', 'with']
+(13.504431528031949, u'The Hunt: Escape From the Holland Tunnel')
+(7.3368877015778002, u'Hillary Clinton, in Book, Regrets Not Striking Back at James Comey')
+(6.7595776812861068, u'Navy Ships Kept at Sea Despite Training and Maintenance Needs, Admiral Says')
+
+['hurricane', 'irma', 'thursday', 'trump', 'with', 'harvey']
+(8.1559882832680799, u'House Passes Hurricane Aid and Raises Debt Ceiling')
+(6.1245297022742369, u'Hurricane Irma Updates: Storm Barrels Toward Cuba and Florida')
+(4.9107056324308997, u'Florida, Mexico, Stephen King: Your Friday Briefing')
+
+['harvey', 'hurricane', 'clinton', 'have', 'trump', 'with']
+(20.852499526440926, u'Ex-U.S. Presidents Start Fund to Help Hurricane Harvey Victims')
+(7.9858016732595427, u'Ted Cruz 2.0? Senator Adjusts With Trump in Office and Houston Under Water')
+(4.9557036875487412, u'After Harvey, a Grim Hunt in Texas for Those Still Missing')
+
+['thursday', 'second', 'irma', 'clinton', 'hurricane', 'trump']
+(9.9196927469211129, u'Pope Francis Urges Colombia to Seize \u2018Second Chance\u2019')
+(7.0821717548868657, u'Caribbean Devastated as Irma Heads Toward Florida')
+(6.8852989594924843, u'Irma Inspires a Travel Search: Where to Evacuate')
+
+['clinton', 'hillary', 'late', 'second', 'with', 'have']
+(17.932604467387574, u'Hillary Clinton to Discuss Campaign and New Book on Colbert\u2019s \u2018Late Show\u2019')
+(10.795830166683007, u'Hillary Clinton, in Book, Regrets Not Striking Back at James Comey')
+(7.2021364565076427, u'The Fake Americans Russia Created to Influence the Election')
+
+['thursday', 'mexico', 'after', 'about', 'trump', 'late']
+(7.7143960414952941, u'Mexico Earthquake, Strongest in a Century, Kills Dozens')
+(7.6578517857685542, u'Graydon Carter to End 25-Year Run as Vanity Fair\u2019s Editor')
+(7.24323591955421, u'Trump Lashes Out at Congressional Republicans\u2019 \u2018Death Wish\u2019')
+
+['mexico', 'late', 'quake', 'irma', 'hurricane', 'thursday']
+(17.701002715651406, u'Mexico Earthquake, Strongest in a Century, Kills Dozens')
+(7.8800115568243259, u'Recalling the Deadly Quake That Shook Mexico in 1985')
+(7.1661550387721418, u'Florida, Mexico, Stephen King: Your Friday Briefing')
+
+['with', 'late', 'harvey', 'hillary', 'hurricane', 'trump']
+(7.946490607382704, u'Hillary Clinton to Discuss Campaign and New Book on Colbert\u2019s \u2018Late Show\u2019')
+(7.2240470617482089, u'Ted Cruz 2.0? Senator Adjusts With Trump in Office and Houston Under Water')
+(7.2238166535997745, u'City Kitchen: A Succulent Brisket Almost as Good as Mom\u2019s')
+
+['about', 'that', 'thursday', 'year', 'their', 'hillary']
+(8.1019484440362355, u'A Free Food Forest in the Bronx')
+(8.0917252523406891, u'The truth about Darrin')
+(8.0917252523406891, u"New York's Cardinal Dolan rips Bannon's 'insulting' remarks about church, DACA")
+
+['president', 'trump', 'thursday', 'hurricane', 'irma', 'with']
+(6.3295805407802579, u'Using Silicon Valley Tactics, LinkedIn\u2019s Founder Is Working to Blunt Trump')
+(6.3249044139329742, u'Trump Lashes Out at Congressional Republicans\u2019 \u2018Death Wish\u2019')
+(6.3243885008864025, u'Appeals Court Limits Trump Travel Ban and Allows More Refugees')
+
+['year', 'that', 'storm', 'hurricane', 'irma', 'thursday']
+(11.435204506071726, u'Why Hurricane Irma Could Hurt, a Lot: Much Lies in Harm\u2019s Way')
+(5.7046579980141772, u'Graydon Carter to End 25-Year Run as Vanity Fair\u2019s Editor')
+(5.6438943292279369, u'The Education Issue: \u2018The Way to Survive It Was to Make A\u2019s\u2019')
+
+['that', 'quake', 'their', 'storm', 'hillary', 'mexico']
+(11.519092373836896, u'F.D.A. Accuses EpiPen Maker of Failing to Investigate Malfunctions')
+(7.7457925004133958, u'Haiti Quake Intensity Was Affected by Local Terrain, Study Finds')
+(7.601621367349165, u'Recalling the Deadly Quake That Shook Mexico in 1985')
+
+['have', 'late', 'clinton', 'that', 'about', 'year']
+(9.7365143764805158, u'270,000 Rohingya Have Fled Myanmar, U.N. Says')
+(8.5039598304636801, u'Nudists have new place to play')
+(8.5039596266577533, u'Equifax Says Cyberattack May Have Affected 143 Million Customers')
+
+['irma', 'hurricane', 'trump', 'thursday', 'storm', 'mexico']
+(12.340367067062191, u'In Hurricane Irma\u2019s Ruinous Wake: \u2018I Feel Like I\u2019m on the Moon\u2019')
+(7.8835686279788977, u"DIRECT HIT? 'Devastating' worst-case scenario feared as Hurricane Irma barrels toward Florida")
+(6.9030481702435633, u'J-LAW LOGIC  Actress suggests Trump to  blame for Hurricane Irma')
+
+['headquarters', 'second', 'that', 'clinton', 'hillary', 'their']
+(22.722080854154086, u'Amazon Plans Second Headquarters, Opening a Bidding War Among Cities')
+(5.2558752374690121, u'The Fake Americans Russia Created to Influence the Election')
+(2.562860565124498, u'Hillary Clinton, in Book, Regrets Not Striking Back at James Comey')
+
