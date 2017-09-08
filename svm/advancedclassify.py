@@ -72,18 +72,6 @@ def dpclassify(point,avgs):
 avgs=lineartrain(agesonly)
 print dpclassify([48,20],avgs)
 """
-def yesno(v):
-    if v=='yes': return 1
-    elif v=='no': return -1
-    else: return 0
-
-def matchcount(interest1,interest2):
-    l1=interest1.split(':')
-    l2=interest2.split(':')
-    x=0
-    for v in l1:
-        if v in l2: x+=1
-    return x
 
 #核方法
 #rbf径向基函数
@@ -121,8 +109,10 @@ def getoffset(rows,gamma=10):
 
     return (1.0/(len(l1)**2))*sum1-(1.0/(len(l0)**2))*sum0
 
-#测试新的分类器，只考虑年龄问题，offset=0.0
+#测试新分类器，只考虑年龄问题，offset=0.0
+"""
 print nlclassify([30,30],agesonly,0.0)
 print nlclassify([30,25],agesonly,0.0)
 print nlclassify([25,40],agesonly,0.0)
 print nlclassify([48,20],agesonly,0.0)
+"""
